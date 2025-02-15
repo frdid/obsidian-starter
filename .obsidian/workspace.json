@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f45182dc78747d12",
+        "id": "ee02108e03894346",
         "type": "tabs",
         "children": [
           {
-            "id": "f1d2b1db7f4f80e8",
+            "id": "25c37591b2910b2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Bibli/buku/eva-apriliani-siti-fathonah-2022-menulis-kreatif.md",
+                "file": "05-Journal/01 Harian/2025/02/2025-02-15.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "eva-apriliani-siti-fathonah-2022-menulis-kreatif"
+              "title": "2025-02-15"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Bibli/buku/eva-apriliani-siti-fathonah-2022-menulis-kreatif.md",
+                "file": "05-Journal/01 Harian/2025/02/2025-02-15.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of eva-apriliani-siti-fathonah-2022-menulis-kreatif"
+              "title": "Outline of 2025-02-15"
             }
           },
           {
@@ -218,24 +218,34 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "e60975ce3b1df47a",
+  "active": "25c37591b2910b2c",
   "lastOpenFiles": [
+    "05-Journal/01 Harian/2025/02/2025-02-13.md",
+    "05-Journal/01 Harian/2025/02/2025-02-15.md",
+    "05-Journal/01 Harian/2025/02/2025-02-08.md",
+    "05-Journal/02 Mingguan/2025/2025-P06.md",
+    "05-Journal/01 Harian/2025/02/2025-02-07.md",
+    "05-Journal/01 Harian/2025/02/2025-02-06.md",
+    "05-Journal/01 Harian/2025/02/2025-02-05.md",
+    "05-Journal/01 Harian/2025/02/2025-02-04.md",
+    "05-Journal/01 Harian/2025/02/2025-02-03.md",
+    "02-Areas/Personal Blog/published/88-Gegege No Kitarou.md",
+    "00-Inbox/Untitled.md",
+    "05-Journal/01 Harian/2025/02/2025-02-12.md",
+    "05-Journal/01 Harian/2025/02/2025-02-11.md",
+    "04-Bibli/buku/eva-apriliani-siti-fathonah-2022-menulis-kreatif.md",
+    "00-Kotak Masuk.md",
+    "01-Book List.md",
     "04-Bibli/youtube/yt-construct-by-dee-2024-obsidian-daily-note-roll-up.md",
     "02-Areas/Personal Blog/published/85-Dua Faktor Pendorong Membaca Buku.md",
-    "04-Bibli/buku/eva-apriliani-siti-fathonah-2022-menulis-kreatif.md",
     "README.md",
     "02-Areas/Stand Up Comedy/boker dicelana waktu SD.md",
     "02-Areas/Stand Up Comedy/Kloset gak disiram.md",
     "02-Areas/Puisi/Aku Takut.md",
-    "05-Journal/01 Harian/2025/02/2025-02-15.md",
     "91-Templates/journal/templat-bulanan.md",
     "91-Templates/journal/templat-harian.md",
     "91-Templates/journal/templat-mingguan.md",
     "91-Templates/journal/templat-tahunan.md",
-    "91-Templates/journal/templat-triwulan.md",
-    "05-Journal/04 Triwulan/2025/2025-T1.md",
-    "05-Journal/01 Harian/2025/02/2025-02-14.md",
-    "05-Journal/04 Triwulan/2025",
-    "05-Journal/04 Triwulan/2025-T1.md"
+    "05-Journal/04 Triwulan/2025"
   ]
 }
