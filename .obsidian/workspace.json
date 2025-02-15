@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d900d335d9e3f5cb",
@@ -153,33 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-Journal/01 Harian/2025/02/2025-02-15.md",
+                "file": "04-Bibli/buku/eva-apriliani-siti-fathonah-2022-menulis-kreatif.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-02-15"
-            }
-          },
-          {
-            "id": "57ab836f27a6bf8b",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
-            }
-          },
-          {
-            "id": "8fe526aab59f12e7",
-            "type": "leaf",
-            "state": {
-              "type": "smart-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Smart Chat"
+              "title": "Outline of eva-apriliani-siti-fathonah-2022-menulis-kreatif"
             }
           },
           {
@@ -193,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "e92810008a555182",
@@ -237,8 +218,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "f1d2b1db7f4f80e8",
+  "active": "e60975ce3b1df47a",
   "lastOpenFiles": [
+    "04-Bibli/youtube/yt-construct-by-dee-2024-obsidian-daily-note-roll-up.md",
+    "02-Areas/Personal Blog/published/85-Dua Faktor Pendorong Membaca Buku.md",
+    "04-Bibli/buku/eva-apriliani-siti-fathonah-2022-menulis-kreatif.md",
     "README.md",
     "02-Areas/Stand Up Comedy/boker dicelana waktu SD.md",
     "02-Areas/Stand Up Comedy/Kloset gak disiram.md",

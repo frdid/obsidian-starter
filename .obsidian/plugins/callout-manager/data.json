@@ -1,7 +1,18 @@
 {
   "callouts": {
-    "custom": [],
-    "settings": {}
+    "custom": [
+      "journal"
+    ],
+    "settings": {
+      "journal": [
+        {
+          "changes": {
+            "icon": "lucide-history",
+            "color": "166, 189, 197"
+          }
+        }
+      ]
+    }
   },
   "calloutDetection": {
     "obsidian": true,
