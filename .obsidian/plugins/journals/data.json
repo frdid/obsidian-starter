@@ -1,0 +1,89 @@
+{
+  "journals": {
+    "journal": {
+      "id": "journal",
+      "type": "calendar",
+      "name": "journal",
+      "rootFolder": "05-Journal",
+      "openOnStartup": false,
+      "day": {
+        "enabled": true,
+        "openMode": "active",
+        "nameTemplate": "",
+        "dateFormat": "YYYY/MM/YYYY-MM-DD",
+        "folder": "01 Harian",
+        "template": "91-Templates/journal/templat-harian.md",
+        "ribbon": {
+          "show": false,
+          "icon": "",
+          "tooltip": ""
+        },
+        "createOnStartup": false
+      },
+      "week": {
+        "enabled": true,
+        "openMode": "active",
+        "nameTemplate": "",
+        "dateFormat": "YYYY/YYYY-[P]ww",
+        "folder": "02 Mingguan",
+        "template": "91-Templates/journal/templat-mingguan.md",
+        "ribbon": {
+          "show": false,
+          "icon": "",
+          "tooltip": ""
+        },
+        "createOnStartup": false
+      },
+      "month": {
+        "enabled": true,
+        "openMode": "active",
+        "nameTemplate": "",
+        "dateFormat": "YYYY/YYYY-MM",
+        "folder": "03 Bulanan",
+        "template": "91-Templates/journal/templat-bulanan.md",
+        "ribbon": {
+          "show": false,
+          "icon": "",
+          "tooltip": ""
+        },
+        "createOnStartup": false
+      },
+      "quarter": {
+        "enabled": true,
+        "openMode": "active",
+        "nameTemplate": "",
+        "dateFormat": "YYYY/YYYY-[T]Q",
+        "folder": "04 Triwulan",
+        "template": "91-Templates/journal/templat-triwulan.md",
+        "ribbon": {
+          "show": false,
+          "icon": "",
+          "tooltip": ""
+        },
+        "createOnStartup": false
+      },
+      "year": {
+        "enabled": true,
+        "openMode": "active",
+        "nameTemplate": "",
+        "dateFormat": "YYYY",
+        "folder": "05 Tahunan",
+        "template": "91-Templates/journal/templat-tahunan.md",
+        "ribbon": {
+          "show": false,
+          "icon": "",
+          "tooltip": ""
+        },
+        "createOnStartup": false
+      }
+    }
+  },
+  "calendar": {
+    "firstDayOfWeek": -1,
+    "firstWeekOfYear": 1
+  },
+  "calendar_view": {
+    "leaf": "right",
+    "weeks": "left"
+  }
+}

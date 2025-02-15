@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "projects": {},
+  "selectedDraftVaultPath": null,
+  "userScriptFolder": null,
+  "sessionStorage": "file",
+  "sessions": [
+    {
+      "start": "2025-02-15T02:08:40.970Z",
+      "total": 0,
+      "drafts": {
+        "01-Projects/Skrip Vidio/personal-account/Index.md": {
+          "total": 0,
+          "scenes": {
+            "1-Mengubah Fungsi Sosial Media": 0,
+            "2-Cinta sama Medium": 0,
+            "3-Kebiasaan mengucapkan kata aku dalam komunikasi": 0,
+            "4-Mulai Menulis Lagi": 0,
+            "5-Kebiasaan Menulis Bacaan dan Tontonan": 0,
+            "6-Jadi Terbiasa Menggunakan Saya": 0,
+            "7-Great power, comes with great responsibilities": 0,
+            "8-Menulis untuk bersembunyi": 0,
+            "9-Hidup tidak membosankan": 0,
+            "10-Pengakuan pernah melakukan Phishing ketika SMP": 0,
+            "11-Memberi ruang untuk melakukan kesalahan": 0,
+            "12-Quality over quantity, but quality comes from quantity": 0,
+            "13-Belajar cara belajar": 0,
+            "14-Lelah memikirkan niche": 0,
+            "15-Produktivity hack is bullshit": 0,
+            "16-Hal yang paling menakutkan adalah tidak mencoba": 0,
+            "17-knowledge action gap": 0,
+            "18-Habis ide karena kurang masukan": 0,
+            "19-Ide itu datang dengan sendiri": 0,
+            "20-Jenis konten Reels yang paling aku benci": 0
+          }
+        },
+        "01-Projects/Siniar/Siniar Film/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Intro ": 0,
+            "Kenapa ingin membuat siniar film": 0
+          }
+        },
+        "01-Projects/Siniar/Mengukir Waktu/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Season 1": 0,
+            "Eps. 1-Kembali Menulis Blog": 0,
+            "Eps. 2-Haruskah Studi S2, Mengenal Metode 5 Why": 0,
+            "Eps. 3-Menghilang dari Sosial Media": 0,
+            "Eps. 4-Alternatif Obsidian Sync dengan GitHub": 0,
+            "Eps. 5-": 0
+          }
+        },
+        "01-Projects/JKT48/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Resource": 0,
+            "Pengantar": 0,
+            "Idol": 0,
+            "AKB 48": 0
+          }
+        }
+      }
+    }
+  ],
+  "showWordCountInStatusBar": true,
+  "startNewSessionEachDay": true,
+  "sessionGoal": 500,
+  "applyGoalTo": "all",
+  "notifyOnGoal": true,
+  "countDeletionsForGoal": false,
+  "keepSessionCount": 30,
+  "sessionFile": "99-Meta/longform-sessions.json",
+  "numberScenes": false,
+  "sceneTemplate": null,
+  "workflows": {
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\\n\\n---\\n\\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "manuscript.md",
+            "open-after": true
+          }
+        }
+      ]
+    }
+  }
+}

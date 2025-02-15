@@ -1,0 +1,9 @@
+{
+  "attachmentFolderPath": "99-Meta/.attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00-Inbox",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "vimMode": true,
+  "showLineNumber": true
+}
